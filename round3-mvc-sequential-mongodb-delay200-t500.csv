@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET /api/users/aggregate,18038,1269,603,1621,353.43,0.000%,293.23406,60.14,45.82,210.0
+TOTAL,18038,1269,603,1621,353.43,0.000%,293.23406,60.14,45.82,210.0
